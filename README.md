@@ -1,4 +1,4 @@
-# Deploy Golang App Using Kubernetes
+# Deploy Golang App and MYSQL Using Docker and Kubernetes
 
 ## Instalation
 
@@ -8,7 +8,7 @@ Pull golang app from [docker-hub](https://hub.docker.com/repository/docker/danis
 docker push danisbagus/app-go:latest
 ```
 
-Login to dockerhub acount in terminal
+Login to dockerhub account in terminal
 
 ```
 docker login
